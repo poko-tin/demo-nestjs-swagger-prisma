@@ -32,6 +32,13 @@
 $ pnpm install
 ```
 
+## Update prisma database
+
+```bash
+$ npx prisma db push
+$ npx prisma generate
+```
+
 ## Running the app
 
 ```bash
